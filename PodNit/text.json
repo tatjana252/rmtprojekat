@@ -1,0 +1,22 @@
+[
+  {
+    "pojam": "Pojam1",
+    "brojPretraga": 1000000
+  },
+  {
+    "pojam": "Pojam2",
+    "brojPretraga": 2000000
+  },
+  {
+    "pojam": "Pojam3",
+    "brojPretraga": 3000000
+  },
+  {
+    "pojam": "Pojam4",
+    "brojPretraga": 4000000
+  },
+  {
+    "pojam": "Pojam5",
+    "brojPretraga": 5000000
+  }
+]
